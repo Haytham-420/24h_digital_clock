@@ -1,4 +1,4 @@
-![photo_2025-11-17_18-52-13](https://github.com/user-attachments/assets/765cc391-87ac-41d0-8161-65c93489894d)## 24h Digital Clock (Design Diagrams)
+## 24h Digital Clock (Design Diagrams)
 
 This repository contains the digital logic design files for a digital clock. The design is captured as a series of block diagrams created in draw.io.
 
@@ -25,4 +25,3 @@ You can open, view, and edit these .drawio files using the [draw.io](https://app
 ![photo_2025-11-17_18-52-13](https://github.com/user-attachments/assets/e275d680-6c28-41b5-ab09-02db99d1e353)
 
 ![Uploading photo_2025-11-17_18-52-18.jpg…]()
-
