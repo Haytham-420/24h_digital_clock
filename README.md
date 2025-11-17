@@ -1,10 +1,11 @@
 ## Digital Clock (Without Microcontrollers)
 
-[cite_start]This project is a final report for the EEE14357 Digital Systems Design Lab at Palestine Technical College - Deir Al Balah[cite: 1, 2, 4].
+This project is a final report for the EEE14357 Digital Systems Design Lab at Palestine Technical College - Deir Al Balah
 
-[cite_start]The project, completed in June 2023, is the design and implementation of a 24-hour digital clock that displays seconds, minutes, and hours[cite: 13, 19]. [cite_start]The primary constraint and focus of the project was to achieve this functionality using discrete digital logic integrated circuits (ICs), with **no microcontrollers**[cite: 6, 16, 17].
+The project, completed in June 2023, is the design and implementation of a 24-hour digital clock that displays seconds, minutes, and hours.
+The primary constraint and focus of the project was to achieve this functionality using discrete digital logic integrated circuits (ICs), with **no microcontrollers**
 
-[cite_start]The clock also features two push-buttons to manually adjust the minutes and hours[cite: 20].
+The clock also features two push-buttons to manually adjust the minutes and hours
   
 ### 🖼️ Images
 
