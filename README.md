@@ -23,5 +23,5 @@ You can open, view, and edit these .drawio files using the [draw.io](https://app
 ### 🖼️ Images
 
 ![photo_2025-11-17_18-52-13](https://github.com/user-attachments/assets/e275d680-6c28-41b5-ab09-02db99d1e353)
+![photo_2025-11-17_18-52-18](https://github.com/user-attachments/assets/d23be02a-c089-4e4d-a5bf-3a74bd32d64d)
 
-![Uploading photo_2025-11-17_18-52-18.jpg…]()
