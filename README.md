@@ -50,3 +50,5 @@ The circuit is powered by an **L7805CV** linear voltage regulator, which takes a
   * **2x Push Buttons** (for setting time)
   * **2x Diodes** (for isolating set buttons)
   * Various resistors and capacitors for timing and current limiting
+
+![Project-Report_page-0001](https://github.com/user-attachments/assets/e47b0c48-eac7-4fea-8728-d462017037fb)
